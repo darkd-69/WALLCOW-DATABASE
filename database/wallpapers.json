@@ -1,8 +1,8 @@
 [
   {
-    "id": "mountain_001",
-    "title": "Beautiful Mountain",
-    "category": "mountain",
-    "image": ""
+    "id": "mountain1",
+    "title": "Mountain",
+    "category": "Mountain",
+    "imageUrl": "https://raw.githubusercontent.com/darkd-69/WALLCOW-DATABASE/main/wallpapers/mountain/mountain1.jpg"
   }
 ]
